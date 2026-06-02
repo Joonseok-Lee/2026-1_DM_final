@@ -1,0 +1,51 @@
+{
+  "한식음식점": {
+    "margin_rate": 0.2,
+    "standard_invest": 105130000,
+    "labor_monthly": 40750000,
+    "avg_lifespan_mo": 68,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  },
+  "커피-음료": {
+    "margin_rate": 0.2,
+    "standard_invest": 111425500,
+    "labor_monthly": 24124999,
+    "avg_lifespan_mo": 53,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  },
+  "양식음식점": {
+    "margin_rate": 0.2,
+    "standard_invest": 83240000,
+    "labor_monthly": 34999999,
+    "avg_lifespan_mo": 63,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  },
+  "호프-간이주점": {
+    "margin_rate": 0.2,
+    "standard_invest": 74250000,
+    "labor_monthly": 45750000,
+    "avg_lifespan_mo": 59,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  },
+  "편의점": {
+    "margin_rate": 0.25,
+    "standard_invest": 74200000,
+    "labor_monthly": 31249999,
+    "avg_lifespan_mo": 140,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  },
+  "일식음식점": {
+    "margin_rate": 0.2,
+    "standard_invest": 118155000,
+    "labor_monthly": 45625000,
+    "avg_lifespan_mo": 50,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  },
+  "중식음식점": {
+    "margin_rate": 0.25,
+    "standard_invest": 117537500,
+    "labor_monthly": 55624999,
+    "avg_lifespan_mo": 41,
+    "source": "가맹점 데이터 (team1/biz_summary.csv) 중앙값"
+  }
+}
